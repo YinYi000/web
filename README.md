@@ -1,1 +1,1 @@
-TYhis is a web site to sell some merchandises
+This is a web site to sell some merchandises
